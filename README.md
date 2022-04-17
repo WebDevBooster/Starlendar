@@ -10,7 +10,7 @@ The primary purpose of this calendar system is to do just one thing:
 
 By "chaff" in this case I mean all the individuals attached to the dogma of major organized religions. 
 
-This calendar change is a simple and super-effective way to filter those people out. They will filter themselves out. Simply because we'll implement this new calendar in Star City. Starlendar will keep all those nutcases away from our city. Here's why: 
+This calendar reform is a simple and super-effective way to filter those people out. They will filter themselves out. Simply because we'll implement this new calendar in Star City. Starlendar will keep all those nutcases away from our city. Here's why: 
 
 1) Individuals attached to the dogma of major organized religions (I won't mention any by name) firmly believe that there's something "divine" about a 7-day week. No, there isn't. Their core belief system is structured around the week having 7 days. And they assign various religious meanings to various days of a 7-day week. In their worldview, a week cannot have anything other than 7 days.
 
