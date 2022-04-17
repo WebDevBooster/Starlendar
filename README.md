@@ -91,7 +91,7 @@ I designed the names so that the initials of the first 5 days spell out STARS. R
 
 The name of every day is meant to inspire and/or boost the productivity spirit. One of our long-term aims in Star City is to automate 100% of all the idiotic, boring and tedious jobs. All manual labor shall be automated. So, eventually, we'll only have jobs left that require creativity and thinking but not manual labor. 
 
-And that means: In Star City, "work" will be something people LOVE doing and look forward to. The names for the days of the week are designed to mirror that line of thinking. In Star City, EVERY day of the week is meant to be great. If someone is doing a job where they are "just waiting for a weekend" on a regular workday, they need to change their job **immediately**. 
+And that means: In Star City, "work" will be something people LOVE doing and look forward to. The names for the days of the week are designed to mirror that line of thinking. In Star City, EVERY day of the week is meant to be great. If someone is doing a job where they are "just waiting for the weekend" on a regular workday or have the "can't wait until the weekend" attitude, they need to change their job **immediately**. 
 
 ### Month Names
 
