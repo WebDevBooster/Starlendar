@@ -50,4 +50,82 @@ In other words, on top of fulfilling its main purpose outlined above Starlendar 
 
 It's a bonus I hadn't even considered when developing Starlendar. But hey, we'll take it! :-) 
 
+### Basic Design
+
+So, in Starlendar we'll have a 6-day week and 5 weeks in a 30-day month.
+
+Originally, I though that the 5 extra days (6 in leap years) would be part of the last month in Starlendar. But the World Calendar was a good inspiration. I got the concept of "intercalary days" or off-calendar days from that. 
+
+**Ultra days** is the name I've chosen for the intercalary days in Starlendar. I gave each ultra day a separate name and made it so that the initials of each ultra day name spell out the word ULTRA. One of the meanings of the [prefix "ultra-"](https://en.wiktionary.org/wiki/ultra-#Prefix) is "greater than normal quantity or importance". Very fitting.
+
+These are the ultra day names: 
+
+* **U**ltraday (U1)
+* **L**arkday (U2)
+* **T**uneday (U3)
+* **R**aveday (U4)
+* **A**rchday (U5)
+
+In leap years, we'll also have a **Leapday** as the 6th ultra day.
+
+All ultra days and the Leapday are always meant to be holidays. We'll make sure to have great celebrations on these days in Star City. 
+
+In regular years, the Archday will provide an "arch connection" from the old year to the new. And every 4 years we'll "leap" into the new year on a Leapday. :-)
+
+### Days of the Week
+
+We certainly can't use any of the weekday names from the 7-day week of the Gregorian calendar. Almost all of them have some religious meaning associated with them. We want to completely rid ourselves of that nonsense in Star City. With Starlendar, we want a clean slate without any ambiguity. So, new weekday names are a must. 
+
+Here are the day names of our 6-day week I developed: 
+
+* Starday
+* Topday
+* Aceday
+* Rolday
+* Sumday
+* Funday
+
+I designed the names so that the initials of the first 5 days spell out STARS. Rolday incorporates the meanings of both the word "role" as well as "roll" (with emphasis on the former). The meanings of the other days are self-explanatory. 
+
+### Month Names
+
+For obvious reasons, we also must have new month names in Starlendar. Here are the names of the 12 months: 
+
+1) Alba
+2) Tera
+3) Mera
+4) Apo
+5) Mio
+6) Jeno
+7) Joly
+8) Ripn
+9) Savt
+10) Deko
+11) Elva
+12) Dozl
+
+I designed it so that no name of a month is longer than 4 characters. Additionally, I made sure that no month name is longer than the corresponding name in the Gregorian calendar. So, the counterpart to May could not be longer than 3 characters thus we have Mio. And Jolly had to be shortened to Joly.
+
+Under those constraints Ripen became Ripn and Saveit became Savt (but with the same pronunciation as "save it"). 
+
+Deko, Elva and Dozl are simply just an allusion to the dozenal system (which will be the primary numeral system in Star City). In dozenal, dek is the equivalent to number 10 in decimal. El is the counterpart to 11 in decimal and Dozl comes from the shortening of dozenal.
+
+Alba is a fun replacement for January (alba means "white"). And the remaining names came from just me having fun while also trying to make mnemonic connections to old month names. 
+
+E.g. Mera is an easy mapping to March, Apo to April, Jeno to June, Joly to July etc.
+
+There's also some rhyming going on. And the whole 12-month name sequence would be easy to sing. That's on purpose. 
+
+Mera actually came as an auto-suggestion on my phone as a follow-up to Tera (I was doing a small edit on my phone at the time) and I thought it was a good idea. Looked up "tera mera" later and apparently, in one of the languages on the Indian subcontinent that phrase translates as "our love". Well, why not? It rhymes well! :-)
+
+Mera be the month of love in Starlendar! :-) 
+
+Of course, "ripen" and "save it" only make sense in the Northern hemisphere for those months. And there's certainly nothing "alba" in Australia at the beginning of a year. But hey, names are names. And those will be ours for Starlendar. Although I'm open for better suggestions. 
+
+### Simplicity
+
+Thanks to the inspiration I got from the World Calendar, we now have this beautiful simplicity and astonishing regularity in Starlendar. Each month and each quarter of the year is identical in length. And every month starts and ends with the same day of the week. 
+
+ ![Starlendar](./assets/starlendar.png)
+
 
