@@ -89,6 +89,10 @@ Here are the day names of our 6-day week I developed:
 
 I designed the names so that the initials of the first 5 days spell out STARS. Rolday incorporates the meanings of both the word "role" as well as "roll" (with emphasis on the former). The meanings of the other days are self-explanatory. 
 
+The name of every day is meant to inspire and/or boost the productivity spirit. One of our long-term aims in Star City is to automate 100% of all the idiotic, boring and tedious jobs. All manual labor shall be automated. So, eventually, we'll only have jobs left that require creativity and thinking but not manual labor. 
+
+And that means: In Star City, "work" will be something people LOVE doing and look forward to. The names for the days of the week are designed to mirror that line of thinking. In Star City, EVERY day of the week is meant to be great. If someone is doing a job where they are "just waiting for a weekend" on a regular workday, they need to change their job **immediately**. 
+
 ### Month Names
 
 For obvious reasons, we also must have new month names in Starlendar. Here are the names of the 12 months: 
