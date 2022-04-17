@@ -2,9 +2,11 @@
 
 This new calendar system is designed for use in Star City (see Star City manifesto). So, we don't expect anyone else to adopt this calendar. But anyone who wishes to do so is welcome to. 
 
+### The Why
+
 The primary purpose of this calendar system is to do just one thing: 
 
-### The Why (separate the "chaff from the wheat")
+#### Separate the "chaff from the wheat".
 
 By "chaff" in this case I mean all the individuals attached to the dogma of major organized religions. 
 
