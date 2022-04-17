@@ -93,6 +93,10 @@ The name of every day is meant to inspire and/or boost the productivity spirit. 
 
 And that means: In Star City, "work" will be something people LOVE doing and look forward to. The names for the days of the week are designed to mirror that line of thinking. In Star City, EVERY day of the week is meant to be great. If someone is doing a job where they are "just waiting for the weekend" on a regular workday or have the "can't wait until the weekend" attitude, they need to change their job **immediately**. 
 
+If you "can't wait until the weekend" at any time during the workweek, you aren't doing a job you should be doing. You aren't doing anything that's fulfilling and in that case you should immediately quit that job and change to something that you find fun and fulfilling. 
+
+In Star City, we'll give you all of the learning resources and all the support you'll ever need to gracefully change profession to something you absolutely LOVE doing. Only if you LOVE your job, only then that job is right for you. In Star City, we want you to LOVE your job and only ever do the kind of jobs you love doing.
+
 ### Month Names
 
 For obvious reasons, we also must have new month names in Starlendar. Here are the names of the 12 months: 
