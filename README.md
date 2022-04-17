@@ -95,7 +95,7 @@ And that means: In Star City, "work" will be something people LOVE doing and loo
 
 If you "can't wait until the weekend" at any time during the workweek, you aren't doing a job you should be doing. You aren't doing anything that's fulfilling and in that case you should immediately quit that job and change to something that you find fun and fulfilling. 
 
-In Star City, we'll give you all of the learning resources and all the support you'll ever need to gracefully change profession to something you absolutely LOVE doing. Only if you LOVE your job, only then that job is right for you. In Star City, we want you to LOVE your job and only ever do the kind of jobs you love doing.
+In Star City, we'll give you all of the learning resources and all the support you'll ever need to gracefully change profession to something you absolutely LOVE doing. Only if you LOVE your job, only then is that job right for you. In Star City, we want you to LOVE your job and only ever do the kind of jobs you love doing.
 
 ### Month Names
 
