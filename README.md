@@ -128,4 +128,38 @@ Thanks to the inspiration I got from the World Calendar, we now have this beauti
 
  ![Starlendar](./assets/starlendar.png)
 
+### Workdays vs. Restdays
+
+One obvious question might be now: Since a Starlendar week has one fewer days, what about weekends? Or the number of workdays in a week?
+
+A traditional 7-day week typically tends to have 5 workdays (in the Western world) and 2 days of rest for a weekend. How is that supposed to be handled with a 6-day week? Good question!
+
+Here are my thoughts on that: 
+
+Building Star City is NOT gonna be a "walk in the park". Building Star City is gonna require **humongous** effort from everyone involved. If you aren't willing to put extra effort while building Star City, this city is not for you. Stay away! 
+
+That little paragraph right there is all you need to know. 
+
+You are either willing to put in extra effort into building the greatest city on the planet or you aren't. That should be a super-easy decision to make. 
+
+If you are willing, welcome! 
+
+If you aren't, stay the hell away! 
+
+Now, if you are willing to work every single day of the week to build the greatest city on the planet, I'd love to meet you because you think the same way I do. 
+
+However, even if we are eager to make sacrifices and work every single day for the rest of our lives, we should reserve one day of the week for rest and recreational activities. Because this will help us stay healthy und ultimately get more done. 
+
+Therefore I propose: 
+
+During the building phase of Star City i.e. until we build all of the major buildings in all 36 planned districts (to accommodate 108 million residents) **AND** build the first space elevator... until then we should have a 5-day work week with Funday being the rest day of our 6-day week. 
+
+Once that's done, we can let the people of Star City vote as to whether or not we should switch to a 4-day work week with a 2-day weekend. This might be possible given the trend in European countries has been moving toward a 4-day workweek (in a traditional 7-day week).
+
+One of the main aims of Star City is to establish this new mega-city as the undisputed world leader in science and technology. "Establish" means achieve that status and KEEP it up. 
+
+I suspect that due to the vast degree of automation in Star City (far more automation than anywhere else in the world) we'll probably be able to switch to a 4-day work. But ONLY if that won't sacrifice the city's status as the world leader in science and technology. 
+
+So, this will be a matter for debate, data analysis and maybe even a real-world trial to see what happens if we temporarily switch to a 4-day workweek in Star City. We probably won't lose our leadership status if we switch to a 4-day workweek for a year. So, we could try that, gather data and then decide. But only AFTER we finish all of the major buildings and build the first space elevator. 
+
 
