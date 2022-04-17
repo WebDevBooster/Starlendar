@@ -120,7 +120,7 @@ Under those constraints Ripen became Ripn and Saveit became Savt (but with the s
 
 Deko, Elva and Dozl are simply just an allusion to the dozenal system (which will be the primary numeral system in Star City). In dozenal, dek is the equivalent to number 10 in decimal. El is the counterpart to 11 in decimal and Dozl comes from the shortening of dozenal.
 
-Alba is a fun replacement for January (alba means "white"). And the remaining names came from just me having fun while also trying to make mnemonic connections to old month names. 
+Alba is a fun replacement for January (alba means "white"). And the remaining names came from just me having fun while also trying to make mnemonic connections to legacy month names. 
 
 E.g. Mera is an easy mapping to March, Apo to April, Jeno to June, Joly to July etc.
 
