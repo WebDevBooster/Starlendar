@@ -44,7 +44,10 @@ But recently I stumbled upon a thing called [World Calendar](https://en.wikipedi
 
 So, given that Starlendar is a much more radical change compared to World Calendar, we can be sure that even if we synchronize the year start (and leap years) with the Gregorian calendar, it will work great for filtering out religious nutcases from Star City. Awesome! 
 
+Also, reading through that Wikipedia page about World Calendar made me realize that... even though World Calendar was a more benign reform proposal (compared to Starlendar), apparently many people and countries were seriously considering World Calendar implementation because of the various benefits listed on that Wikipedia page. 
 
+In other words, on top of fulfilling its main purpose outlined above Starlendar would also give us those same benefits that World Calendar was expected to provide. A BONUS! 
 
+It's a bonus I hadn't even considered when developing Starlendar. But hey, we'll take it! :-) 
 
 
