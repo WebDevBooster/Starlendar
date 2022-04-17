@@ -84,7 +84,7 @@ Here are the day names of our 6-day week I developed:
 * Topday
 * Aceday
 * Rolday
-* Sumday
+* Sumday -> P.S. In retrospect I realized that Sumday has the exact same pronunciation as "some day". So, not ideal. TODO: Replace that name.
 * Funday
 
 I designed the names so that the initials of the first 5 days spell out STARS. Rolday incorporates the meanings of both the word "role" as well as "roll" (with emphasis on the former). The meanings of the other days are self-explanatory. 
