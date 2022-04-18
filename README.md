@@ -138,7 +138,14 @@ Thanks to the inspiration I got from the World Calendar, we now have intercalary
 
 And that affords us this beautiful simplicity, symmetry and astonishing regularity in Starlendar. Each month and each quarter of the year is identical in length. And every month starts with the first day of the week (Starday) and ends with the last day of the week (Funday). 
 
+Starlendar in decimal:
+
  ![Starlendar](./assets/starlendar.png)
+
+Starlendar in **dozenal**:  
+(dozenal will be the primary numeral system in Star City)
+
+ ![Starlendar](./assets/starlendar-in-dozenal.png)
 
 ### Workdays vs. Restdays
 
