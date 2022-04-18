@@ -97,6 +97,14 @@ If you "can't wait until the weekend" at any time during the workweek, you aren'
 
 In Star City, we'll give you all of the learning resources and all the support you'll ever need to gracefully change profession to something you absolutely LOVE doing. Only if you LOVE your job, only then is that job right for you. In Star City, we want you to LOVE your job and only ever do the kind of jobs you love doing.
 
+It's perfectly fine to change careers at any time. Only if you love your job, will you do the best job you can. And when that happens, it's a win-win for you and for Star City. 
+
+Every day of your life will then become an amazingly fun, meaningful, fulfilling real-life video game. Every day of your life you will wake up wanting to do something that'll make Star City even more amazing. The traditional notion of "work" will become ridiculous in Star City. Because on every "workday" in Star City you'll want to PLAY trying to beat your best score.
+
+And once we build the first space elevator in Star City, we'll start a whole new chapter for humanity. Eventually, we'll have dozens of space elevators connecting us to orbit. We'll build the greatest megacity on the planet and demonstrate how to solve the biggest problems humanity is facing. 
+
+Star City will serve as a role model for humanity to follow and you will feel incredibly happy that you are allowed to live and work in this city.
+
 ### Month Names
 
 For obvious reasons, we also must have new month names in Starlendar. Here are the names of the 12 months: 
