@@ -101,7 +101,7 @@ It's perfectly fine to change careers at any time. Only if you love your job, wi
 
 Every day of your life will then become an amazingly fun, meaningful, fulfilling real-life video game. Every day of your life you will wake up wanting to do something that'll make Star City even more amazing. The traditional notion of "work" will become ridiculous in Star City. Because on every "workday" in Star City you'll want to PLAY trying to beat your best score.
 
-And once we build the first space elevator in Star City, we'll start a whole new chapter for humanity. Eventually, we'll have dozens of space elevators connecting us to orbit. We'll build the greatest megacity on the planet and demonstrate how to solve the biggest problems humanity is facing. 
+And once we build the first space elevator in Star City, we'll start a whole new chapter for humanity. Eventually, we'll have dozens of space elevators connecting us to orbit. We'll build the greatest megacity on the planet and **demonstrate** how to solve the biggest problems humanity is facing. 
 
 Star City will serve as a role model for humanity to follow and you will feel incredibly happy that you are allowed to live and work in this city.
 
