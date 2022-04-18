@@ -114,7 +114,7 @@ For obvious reasons, we also must have new month names in Starlendar. Here are t
 11) Elva
 12) Dozl
 
-I designed it so that no name of a month is longer than 4 characters. Additionally, I made sure that no month name is longer than the corresponding name in the Gregorian calendar. So, the counterpart to May could not be longer than 3 characters thus we have Mio. And Jolly had to be shortened to Joly.
+I designed it so that no name of a month is longer than 4 characters. So, we'll never need abbreviation for month names. Additionally, I made sure that no month name is longer than the corresponding name in the Gregorian calendar. So, the counterpart to May could not be longer than 3 characters thus we have Mio. And Jolly had to be shortened to Joly.
 
 Under those constraints Ripen became Ripn and Saveit became Savt (but with the same pronunciation as "save it"). 
 
