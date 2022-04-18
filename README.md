@@ -134,7 +134,9 @@ Of course, "ripen" and "save it" only make sense in the Northern hemisphere for 
 
 ### Simplicity
 
-Thanks to the inspiration I got from the World Calendar, we now have this beautiful simplicity and astonishing regularity in Starlendar. Each month and each quarter of the year is identical in length. And every month starts and ends with the same day of the week. 
+Thanks to the inspiration I got from the World Calendar, we now have intercalary days (ultra days) which aren't part of any regular month. 
+
+And that affords us this beautiful simplicity, symmetry and astonishing regularity in Starlendar. Each month and each quarter of the year is identical in length. And every month starts with the first day of the week (Starday) and ends with the last day of the week (Funday). 
 
  ![Starlendar](./assets/starlendar.png)
 
