@@ -145,7 +145,7 @@ Starlendar in decimal:
 Starlendar in **dozenal**:  
 (dozenal will be the primary numeral system in Star City)
 
- ![Starlendar](./assets/starlendar-in-dozenal.png)
+ ![Starlendar in dozenal](./assets/starlendar-in-dozenal.png)
 
 ### Workdays vs. Restdays
 
