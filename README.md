@@ -192,3 +192,14 @@ I suspect that due to the vast degree of automation in Star City (far more autom
 So, this will be a matter for debate, data analysis and maybe even a real-world trial to see what happens if we temporarily switch to a 4-day workweek in Star City. We probably won't lose our leadership status if we switch to a 4-day workweek for a year. So, we could try that, gather data and then decide. But only AFTER we finish all of the major buildings and build the first space elevator. 
 
 
+### Years
+
+And here are the years in Starlendar:
+
+![Starlendar years](./assets/starlendar-years.png)
+
+By the way, remember when the world was supposed to end in 2012 because the ancient Mayan calendar had run out of years? 
+
+Well, we can now spin out a new myth saying:  
+*Just before the world was about to end because the ancient Mayan calendar had run out of years, the brave people of Star City had invented a new calendar called Starlendar and saved the world!* :-)
+
