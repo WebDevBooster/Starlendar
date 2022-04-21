@@ -84,10 +84,10 @@ Here are the day names of our 6-day week I developed:
 * Topday
 * Aceday
 * Rolday
-* Sumday -> P.S. In retrospect I realized that Sumday has the exact same pronunciation as "some day". So, not ideal. TODO: Replace that name. Possible candidates: Stepday | Sens(e)day | Shap(e)day
+* Zingday
 * Funday
 
-I designed the names so that the initials of the first 5 days spell out STARS. Rolday incorporates the meanings of both the word "role" as well as "roll" (with emphasis on the former). The meanings of the other days are self-explanatory. 
+I designed the names so that the initials of the first 5 days spell out STARZ. Rolday incorporates the meanings of both the word "role" as well as "roll" (with emphasis on the former). The meanings of the other days are self-explanatory. 
 
 The name of every day is meant to inspire and/or boost the productivity spirit. One of our long-term aims in Star City is to automate 100% of all the idiotic, boring and tedious jobs. All manual labor shall be automated. So, eventually, we'll only have jobs left that require creativity and thinking but not manual labor. 
 
@@ -150,7 +150,7 @@ And that affords us this beautiful simplicity, symmetry and astonishing regulari
 
 Starlendar in decimal:
 
- ![Starlendar](./assets/starlendar.png)
+ ![Starlendar](./assets/starlendar-in-decimal.png)
 
 Starlendar in **dozenal**:  
 ([dozenal will be the primary numeral system in Star City](https://github.com/WebDevBooster/dozenal))
