@@ -137,7 +137,7 @@ E.g. Mera is an easy mapping to March, Apo to April, Jeno to June, Joly to July 
 
 There's also some rhyming going on. And the whole 12-month name sequence would be easy to sing. That's on purpose. 
 
-Savn with the pronunciation of *savin'* would be even better for rhyming but savin' is too close in pronunciation to *seven*. And since we want to avoid potential confusion, I went with Savt pronounced as "save it".
+Savn with the pronunciation of *savin'* would have been even better for rhyming but savin' is too close in pronunciation to *seven*. And since we want to avoid potential confusion, I went with Savt pronounced as "save it".
 
 Mera actually came as an auto-suggestion on my phone as a follow-up to Tera (I was doing a small edit on my phone at the time) and I thought it was a good idea. Looked up "tera mera" later and apparently, in one of the languages on the Indian subcontinent that phrase translates as "our love". Well, why not? It rhymes well! :-)
 
@@ -205,4 +205,11 @@ By the way, remember when the world was supposed to end in 2012 because the anci
 
 Well, we can now spin out a new myth saying:  
 *Just before the world was about to end because the ancient Mayan calendar had run out of years, the brave people of Star City had invented a new calendar called Starlendar and saved the world!* :-)
+
+
+### Additional holidays
+
+Since the first Starday of the year will be a holiday (and I think it really should be a holiday), it's kinda annoying because it messes up the perfect workday symmetry in other quarters. I mean, for measuring performance, it would be ideal if each quarter had the same number of workdays. 
+
+To fix this problem, we could add one holiday to each of the other 3 quarters. The best candidates for that would be the first Starday in Mio, the first Starday in Savt and the last Zingday in Dozl.
 
