@@ -105,6 +105,9 @@ And once we build the first space elevator in Star City, we'll start a whole new
 
 Star City will serve as a role model for humanity to follow and you will feel incredibly happy that you are allowed to live and work in this city.
 
+Oh, and the first day of the week in Star City will always be a ***workday***. Although the first Starday of the year will be a holiday. 
+
+
 ### Month Names
 
 For obvious reasons, we also must have new month names in Starlendar. Here are the names of the 12 months: 
