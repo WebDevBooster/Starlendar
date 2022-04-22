@@ -215,3 +215,8 @@ To fix this problem, we could add one holiday to each of the other 3 quarters. T
 
 Also, we should probably ***replace the word "holiday" with something like "celiday"*** (from celebrate). 
 
+Oh, and the last Zingday in Dozl will actually be the birthday of Isaac Newton. So, given that Isaac Newton was the father of modern science... given that *we know, for sure, that Isaac Newton existed and was actually born on that day* (unlike that mythical creature that supposedly existed some 2,000 odd years ago) and given that one of the main missions of Star City is to become the undisputed world leader in science and technology... 
+
+...it would be very fitting if we celebrate that last Zingday in Dozl as **Newton Day** and make it a celiday. 
+
+
