@@ -206,6 +206,8 @@ By the way, remember when the world was supposed to end in 2012 because the anci
 Well, we can now spin out a new myth saying:  
 *Just before the world was about to end because the ancient Mayan calendar had run out of years, the brave people of Star City had invented a new calendar called Starlendar and saved the world!* :-)
 
+Years before our year 0 shall be marked as *BSL* (short for *before Starlendar*).
+
 
 ### Additional holidays
 
