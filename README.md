@@ -213,3 +213,5 @@ Since the first Starday of the year will be a holiday (and I think it really sho
 
 To fix this problem, we could add one holiday to each of the other 3 quarters. The best candidates for that would be the first Starday in Mio, the first Starday in Savt and the last Zingday in Dozl.
 
+Also, we should probably ***replace the word "holiday" with something like "celiday"*** (from celebrate). 
+
