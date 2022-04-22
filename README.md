@@ -20,7 +20,7 @@ That's why I designed Starlendar.
 
 ### The How
 
-I originally conceived this new calendar system back in September 2013. Its original main purpose was to "separate the chaff from the wheat" by doing 2 things: 
+I originally conceived this new calendar system back in September 2013. Its original main purpose was to "separate the wheat from the chaff" by doing 2 things: 
 
 1) Implement a 6-day week.
 
