@@ -6,7 +6,7 @@ This new calendar system is designed for use in Star City (see [Star City manife
 
 The primary purpose of this calendar system is to do just one thing: 
 
-#### Separate the "chaff from the wheat".
+#### Separate the "wheat from the chaff".
 
 By "chaff" in this case I mean all the individuals attached to the dogma of major organized religions. 
 
