@@ -1,4 +1,4 @@
-# Starlendar: a calendar system for Star City
+# Starlendar: A new calendar system for Star City & the new era of humanity
 
 This new calendar system is designed for use in Star City (see [Star City manifesto](https://github.com/WebDevBooster/star-city-manifesto)). So, we don't expect anyone else to adopt this calendar. But anyone who wishes to do so is welcome to. 
 
